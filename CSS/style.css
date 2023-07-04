@@ -302,7 +302,9 @@ height: 0.9375rem;
 .service-menu-area ul li a{
     display: block;
     margin-bottom: 2.8125rem;
-    margin-left: 6.8125rem;
+    /* margin-left: 6.8125rem; */
+    padding-left: 4rem;
+
 
 }
 .service-menu-area ul li .service-icon{
